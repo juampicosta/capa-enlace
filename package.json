@@ -1,0 +1,28 @@
+{
+  "name": "capa-enlace",
+  "version": "1.0.0",
+  "description": "TP Redes de Datos - Protocolo de Capa de Enlace con Ventana Deslizante",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node examples/demo.js",
+    "test": "node test/test.js",
+    "test:basic": "node test/basic-test.js",
+    "test:integration": "node test/integration-test.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "redes",
+    "data-link-layer",
+    "sliding-window",
+    "crc",
+    "bit-stuffing",
+    "acknowledgment",
+    "flow-control"
+  ],
+  "author": "Juan Pablo Costa",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
