@@ -1,9 +1,3 @@
-/\*\*
-
-- README - Protocolo de Capa de Enlace de Datos
-- Universidad - Trabajo Práctico de Redes de Datos
-  \*/
-
 # 🔗 Protocolo de Capa de Enlace de Datos
 
 **Autor:** Juan Pablo Costa  
