@@ -1,8 +1,7 @@
 # 🔗 Protocolo de Capa de Enlace de Datos
 
-**Autor:** Juan Pablo Costa  
 **Materia:** Redes de Datos  
-**Universidad:** [Nombre de Universidad]
+**Universidad:** UTN FRM
 
 ## 📋 Descripción
 
@@ -266,7 +265,3 @@ Este es un trabajo académico, pero sugerencias son bienvenidas:
 ISC License - Proyecto Académico
 
 ---
-
-**¿Preguntas?** Contactar: [juan.costa@alumnos.frm.utn.edu.ar]
-
-**Fecha:** Septiembre 2025
